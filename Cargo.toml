@@ -10,3 +10,4 @@ repository = "https://github.com/gleich/ina219"
 readme = "README.md"
 
 [dependencies]
+embedded-hal = "0.2.6"
